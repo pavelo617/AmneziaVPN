@@ -15,8 +15,7 @@
 #include <QSysInfo>
 #include <QThread>
 #include <QTimer>
-#include <QOperatingSystemVersion>
-#include <QSaveFile>
+
 
 #include "configurators/vpn_configurator.h"
 #include "configurators/openvpn_configurator.h"
